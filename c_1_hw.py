@@ -8,5 +8,5 @@ wifeAge=input()
 print('what is your age?')
 myAge=input()
 print('wow!')
-print ('The difference between your age and your wife age is ' + str(abs(int(myAge) - (int(wifeAge))))))
+print ('The difference between your age and your wife age is ' + str(abs(int(myAge) - (int(wifeAge)))))
 
